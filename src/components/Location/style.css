@@ -1,0 +1,61 @@
+.Location{
+     
+   
+    background-color: #0D28A6;
+    width: 1168px;
+    height: 326px;
+    margin: auto;
+    border-radius: 13px;
+    
+    
+    
+}
+
+
+
+.Location h1{
+   
+padding-top: 64px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 150%;
+/* identical to box height, or 54px */
+
+text-align: center;
+
+/* Neutral/01 */
+
+color: #FFFFFF;
+
+
+}
+ .Location P{
+    /* width: 468px; */
+padding-top: 20px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+position: relative;
+
+text-align: center;
+
+/* Neutral/01 */
+
+color: #FFFFFF;
+
+ }
+ .butlocation{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+padding-top: 80px;
+
+ }
